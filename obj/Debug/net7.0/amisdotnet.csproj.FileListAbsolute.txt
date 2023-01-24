@@ -1,0 +1,15 @@
+/Users/willhampson/amisdotnet/bin/Debug/net7.0/amisdotnet
+/Users/willhampson/amisdotnet/bin/Debug/net7.0/amisdotnet.deps.json
+/Users/willhampson/amisdotnet/bin/Debug/net7.0/amisdotnet.runtimeconfig.json
+/Users/willhampson/amisdotnet/bin/Debug/net7.0/amisdotnet.dll
+/Users/willhampson/amisdotnet/bin/Debug/net7.0/amisdotnet.pdb
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.csproj.AssemblyReference.cache
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.AssemblyInfoInputs.cache
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.AssemblyInfo.cs
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.csproj.CoreCompileInputs.cache
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.dll
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/refint/amisdotnet.dll
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.pdb
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/amisdotnet.genruntimeconfig.cache
+/Users/willhampson/amisdotnet/obj/Debug/net7.0/ref/amisdotnet.dll
